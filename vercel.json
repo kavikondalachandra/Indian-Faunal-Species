@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "india-faunal-biodiversity-portal",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "india-faunal-species-database",
+  "version": "1.0.0",
+  "description": "National Biodiversity Portal of India \u2014 Faunal, Mammalian, Amphibian & Insect Species Database (Concept & Design by K.S.Chandra 2026)",
+  "scripts": {
+    "start": "npx serve -l 3000 .",
+    "preview": "python -m http.server 8080"
+  },
+  "keywords": [
+    "biodiversity",
+    "india",
+    "fauna",
+    "mammalia",
+    "amphibia",
+    "insecta",
+    "gis",
+    "map"
+  ],
+  "author": "K.S.Chandra <kavikondalaschandra@gmail.com>",
+  "license": "CC-BY-4.0"
+}
